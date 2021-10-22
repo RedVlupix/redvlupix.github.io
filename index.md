@@ -1,6 +1,4 @@
-# RedVlupix
-
-### Hi there 👋
+# Hi there, I'm RedVlupix 👋
 
 ![Avatar](https://avatars.githubusercontent.com/u/92546335?v=4)
 
